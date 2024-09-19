@@ -34,7 +34,7 @@ The LearnSocx landing page is developed using the following technologies:
 
 ## How to Access the Landing Page
 
-The LearnSocx landing page is deployed and can be accessed via the following link: [LearnSocx Landing Page](https://your-username.github.io/learnsocx_landing_page)
+The LearnSocx landing page is deployed and can be accessed via the following link: [LearnSocx Landing Page](https://kaydeemoney.github.io/learnsocx_landing_page/)
 
 ## Project Structure
 
